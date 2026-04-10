@@ -28,8 +28,8 @@ concepts before diving into responsive design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pamelaherrerade/qr-code_component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/pamelaherrerade/qr-code_component)
+- Live Site URL: 
 
 ## My process
 
